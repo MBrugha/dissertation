@@ -6,7 +6,7 @@ published: true
 Hello and a very warm welcome to this site! This is the home of my doctoral research in a study entitled 'Dialogic Online Teacher Professional Development: The Use of Technology to Build a Community of Practice in Educational Dialogue'. All content housed on this site is freely accessible to anyone - I only request that any content used from this site should be cited. Recommended citations have been included on each page.
 
 Thanks for visiting, and enjoy!
-- Meaghan Brugha
+Meaghan Brugha
 
 The site:
 There are seven sections that walk you through the dissertation structure and findings.
