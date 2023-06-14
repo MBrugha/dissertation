@@ -1,8 +1,3 @@
----
-title: introduction
-published: true
----
-
 ## Welcome to the site!
 
 The following video offers an introduction to this site, my research, and how to navigate through the findings:
