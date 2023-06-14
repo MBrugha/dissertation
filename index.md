@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-Hello and a very warm welcome to this site! 
+## Hello and a very warm welcome to this site! 
 
 This is the home of my doctoral research 'Dialogic Online Teacher Professional Development: The Use of Technology to Build a Community of Practice in Educational Dialogue'. This study explores the intersection of technology and educational dialogue to enhance teacher professional development designed for school-level and higher education in-service teachers. As part of the research, three courses were developed and trialled for educators in the form of mechanical MOOCs using this same site structure. It seemed fitting to use my learning from facilitating online courses to create an accessible format to present the results of research. On this site you will find the theory, evidence and literature the study was founded upon, the research methodology utilised, the findings, and concluding remarks. Links have been included throughout to the courses that were run so that you can see first-hand what participants experiencesd.
 
