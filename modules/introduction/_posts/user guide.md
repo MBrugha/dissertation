@@ -1,3 +1,8 @@
+---
+layout: index
+published: true
+---
+
 ## Site user guide
 
 The course has been created using a template from P2P University, which strives to be user friendly and streamlined so that navigation is easy for all participants. It may take a bit of time to get used to, however, because every new online platform works a bit differently. This guide aims to help you navigate the different course features. If you are experiencing difficulty accessing any of the website, please let the [course creator](https://mbrugha.github.io/course-in-a-box/about-us/) know.
