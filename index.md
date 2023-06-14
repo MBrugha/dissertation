@@ -3,26 +3,25 @@ layout: index
 published: true
 ---
 
-A warm welcome to Educational dialogue: Supporting your colleagues through facilitation! This is a free MOOC designed for teachers and teacher educators in schools and tertiary institutions globally who have familiarity with educational dialogue and would like to support their colleagues in developing their dialogic practices.
+Hello and a very warm welcome to this site! This is the home of my doctoral research in a study entitled 'Dialogic Online Teacher Professional Development: The Use of Technology to Build a Community of Practice in Educational Dialogue'. All content housed on this site is freely accessible to anyone - I only request that any content used from this site should be cited. Recommended citations have been included on each page.
 
-There are six weeks of modules that aim to equip learners with the theory, methodologies, tools and resources to support other practitioners in developing their dialogic approaches:
-* **[Introduction to the course](https://mbrugha.github.io/course-in-a-box/modules/introduction/introduction/)** - Learn more about the structure of the course and what to expect over the 6 modules
-* **[Course modules](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-1/)** -  Access the 6 weekly course modules
-  * **[Module 1:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-1/)** The role of the facilitator
-  * **[Module 2:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-2/)** Revisiting the theories and impact of educational dialogue
-  * **[Module 3:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-3/)** Assessing the needs in your setting
-  * **[Module 4:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-4/)** Conducting reflective inquiries
-  * **[Module 5:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-5/)** Identifying key dialogic features in your setting
-  * **[Module 6:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-6/)** Continuing the role of facilitator
-* **[Community discussion forum](https://www.edudialogue.org/forum/mooc-for-facilitators/)** - Join the discussion!
-* **[About the course](https://mbrugha.github.io/course-in-a-box/about/)** - Learn more about the course and contact the course creator  
+Thanks for visiting, and enjoy!
+- Meaghan Brugha
 
-Please register for the course using [this google form](https://docs.google.com/forms/d/e/1FAIpQLSdVGqzG-GIDHSu8U08oDWFrMHdD8bd1ignlVQ5tUBtrw8dpPw/viewform?usp=sf_link) prior to starting any of the course materials.
+The site:
+There are seven sections that walk you through the dissertation structure and findings.
+* **[Introduction to the course](https://mbrugha.github.io/dissertation/modules/introduction/introduction/)** - Learn more about me, about my research, and about this dissertation site and how to navigate it.
+* **[Theory and evidence](https://mbrugha.github.io/dissertation/modules/theory%and%evidence/)** - This section houses relevant literature, including the theory and evidence the research was based upon.
+* **[The research study methodology](https://mbrugha/github/io/dissertation/modules/methodology/)** - This provides an overview of the methodology of the study, including the use of design-based research, an overview of research phases including data collection and analysis, and ethical considerations for the study.
+* **[The findings](https://mbrugha/github/io/dissertation/modules/findings/)** - This section houses three areas of findings from the study: 
+  * **[Supporting the development of an online teacher community of practice](https://mbrugha/github/io/dissertation/modules/findings/online%CoP)** - This section houses content regarding the development of an online teacher community of practice. This includes associated literature, evidence, data, methods and findings from the research.
+  * **[Leveraging technology to enhance dialogue in online professional learning](https://mbrugha/github/io/dissertation/modules/findings/technology%and%dialogue)** - This section houses content regarding the affordances of technology for enhancing dialogue in online professional learning contexts.
+  * **[What works (and what doesn't)?: Design principles](https://mbrugha/github/io/dissertation/modules/findings/design%principles)** - This section presents two publications regarding the design principles for online teacher professional development.
 
 Note that anonymous user analytics are collected and analysed for this website to better understand engagement with the site materials and pages. For further information regarding the data collection for the research study that this course is part of, please review the [introduction to the course](https://mbrugha.github.io/course-in-a-box/modules/introduction/introduction/).
 
 <br/><br/>
-## News and course updates!
+## News and updates!
 
 * Following the first trial of the course in February 2021, the current course has an updated curriculum and focus. While the February trial offered two strands (one for facilitators and one for inquirers), the new course materials have been refreshed just for facilitators. Facilitators are individuals who will already have some familiarity with educational dialogue and wish to take their knowledge a step further to support their colleagues in developing their dialogic practices as well.
 * If you are looking for any of the inquirer content from the previous trial of the course, please contact Meaghan at meb78@cam.ac.uk.
