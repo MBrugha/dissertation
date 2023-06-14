@@ -19,9 +19,9 @@ There are 5 main sections that walk you through the dissertation structure and f
 * **[Theory and evidence](https://mbrugha.github.io/dissertation/modules/theory%20&%20evidence/theory-&-evidence/)** - This section houses relevant literature, including the theory and evidence the research was based upon.
 * **[The research study methodology](https://mbrugha.github.io/dissertation/modules/research%20methods/research-methods/)** - This provides an overview of the methodology of the study, including the use of design-based research, an overview of research phases including data collection and analysis, and ethical considerations for the study.
 * **[The findings](https://mbrugha.github.io/dissertation/modules/findings/findings/)** - This section houses three areas of findings from the study: 
-  * **[Supporting the development of an online teacher community of practice](https://mbrugha.github.io/dissertation/modules/findings/online-teacher-CoP/)**
-  * **[Leveraging technology to enhance dialogue in online professional learning](https://mbrugha.github.io/dissertation/modules/findings/technology-and-dialogue/)**
-  * **[What works (and what doesn't)?: Design principles](https://mbrugha.github.io/dissertation/modules/findings/the-design-principles/)**
+  * *Supporting the development of an online teacher community of practice*
+  * *Leveraging technology to enhance dialogue in online professional learning*
+  * *What works (and what doesn't)? The design principles*
 * **[Concluding remarks](https://mbrugha.github.io/dissertation/modules/conclusions/conclusions/)** - This section offers conclusions, implications for the sector, and future research directions.
 
 *Note that anonymous user analytics are collected and analysed for this website to better understand engagement with the site materials and pages.*
