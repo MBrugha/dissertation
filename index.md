@@ -16,7 +16,7 @@ Meaghan Brugha
 The site:
 There are seven sections that walk you through the dissertation structure and findings.
 * **[Introduction to the course](https://mbrugha.github.io/dissertation/modules/introduction/introduction/)** - Learn more about me, about my research, and about this dissertation site and how to navigate it.
-* **[Theory and evidence](https://mbrugha.github.io/dissertation/modules/theory%&%evidence/)** - This section houses relevant literature, including the theory and evidence the research was based upon.
+* **[Theory and evidence](https://mbrugha.github.io/dissertation/modules/theory%&%evidence/theory%&%evidence/)** - This section houses relevant literature, including the theory and evidence the research was based upon.
 * **[The research study methodology](https://mbrugha/github/io/dissertation/modules/methodology/)** - This provides an overview of the methodology of the study, including the use of design-based research, an overview of research phases including data collection and analysis, and ethical considerations for the study.
 * **[The findings](https://mbrugha/github/io/dissertation/modules/findings/)** - This section houses three areas of findings from the study: 
   * **[Supporting the development of an online teacher community of practice](https://mbrugha/github/io/dissertation/modules/findings/online%CoP)** - This section houses content regarding the development of an online teacher community of practice. This includes associated literature, evidence, data, methods and findings from the research.
