@@ -14,7 +14,7 @@ Thanks for visiting, and enjoy!
 Meaghan Brugha
 <br/><br/>
 ## The website
-There are 5 main sections that walk you through the dissertation structure and findings:
+There are 5 main sections that walk you through the dissertation structure and findings. Each of these sections are framed as modules with sub-modules within them to mimic the structure of a course.
 * **[Introduction to the course](https://mbrugha.github.io/dissertation/modules/introduction/introduction/)** - Learn more about me, about my research, and about this dissertation site and how to navigate it.
 * **[Theory and evidence](https://mbrugha.github.io/dissertation/modules/theory%20&%20evidence/theory-&-evidence/)** - This section houses relevant literature, including the theory and evidence the research was based upon.
 * **[The research study methodology](https://mbrugha.github.io/dissertation/modules/research%20methods/research-methods/)** - This provides an overview of the methodology of the study, including the use of design-based research, an overview of research phases including data collection and analysis, and ethical considerations for the study.
