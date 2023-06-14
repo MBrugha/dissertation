@@ -12,7 +12,7 @@ It is my hope that the presentation of research via a website in course format l
 Thanks for visiting, and enjoy!
 
 Meaghan Brugha
-
+<br/><br/>
 ## The website
 There are 5 main sections that walk you through the dissertation structure and findings:
 * **[Introduction to the course](https://mbrugha.github.io/dissertation/modules/introduction/introduction/)** - Learn more about me, about my research, and about this dissertation site and how to navigate it.
