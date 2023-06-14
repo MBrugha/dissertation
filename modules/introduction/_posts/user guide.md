@@ -1,5 +1,5 @@
 ---
-layout: index
+title: user guide
 published: true
 ---
 
