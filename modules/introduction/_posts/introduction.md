@@ -1,5 +1,5 @@
 ---
-layout: index
+title: introduction
 published: true
 ---
 
