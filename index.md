@@ -15,6 +15,7 @@ Thanks for visiting, and enjoy!
 
 Meaghan Brugha
 <br/><br/>
-## Start here -> [Introduction](https://mbrugha.github.io/dissertation/modules/introduction/introduction/)
+## Start here
+<a class="btn btn-primary" href="https://mbrugha.github.io/dissertation/modules/introduction/introduction/"><i class="fa fa-home"></i> Start here</a>
 <br/><br/>
 *Note that anonymous user analytics are collected and analysed for this website to better understand engagement with the site materials and pages.*
