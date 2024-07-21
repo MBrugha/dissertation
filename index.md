@@ -19,3 +19,5 @@ Meaghan Brugha
 ### Start here 👉 [Introduction](https://mbrugha.github.io/dissertation/modules/introduction/introduction/)
 <br/><br/>
 *Note that anonymous user analytics may be collected and analysed for this website to better understand engagement with the site materials and pages.*
+
+The content on this site is listed as open-access licence CC BY-NC-SA 4.0 for further research to build on what is here.
