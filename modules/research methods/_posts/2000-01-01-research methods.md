@@ -6,7 +6,7 @@ Summary of key learning:
 - Studies should articulate the rationale for the research, and clearly define the research context.
 - The research paradigm and theoretical framework for the research should be articulated. For this study, I opted for a research worldview instead of a selected paradigm, which incorporated a pragmatic set of philosophical assumptions of the nature of knowledge as socially constructed and a product of human interests (Habermas, 1968; Freire, 1970), elements of critical realism and theory (i.e. change theories that help with creating practical improvements and changes), non-representational theory in order to focus on practices instead of studying and representing social relationships (Thrift, 2008; Dewsbury, 2000; Merleau-Ponty, 2002)
 
-Research questions
+## Research questions
 
 This study was guided by three main research questions:
 
@@ -25,4 +25,29 @@ To test this theory of change, the MOOC series was designed, trialled and assess
 
 ![alt](https://mbrugha.github.io/dissertation/img/logicmodel.png)
  
-Inputs included: (i) the MOOC host site via github , (ii) the T-SEDA toolkit contents and materials including additional materials produced by the Cambridge Educational Dialogue Research (CEDiR) team, and (iii) a discussion forum via a resource website, edudialogue.org . The activities that were developed from these inputs included: (i) video tutorials and readings, (ii) individual, pair and group work activities, and (iii) discussion forum contributions. These activities did not seek to transmit knowledge regarding standardised uses of dialogic pedagogy, but rather developed resources and activities for local contextualisation to support its use, as emphasised by Hennessy et al. (2021). The outputs from participation in these activities included: (i) participant engagement and understanding through reflection and creation, (ii) developing a shared vision of dialogic pedagogy, and (iii) sharing resources, contributing to one another’s ideas and learning, and other forms of peer support. Building on these outputs, the outcomes that came from this intervention included: (i) more effective use of dialogic pedagogy in practice, and (ii) the formation of a peer network and community of practice. Areas of impact include: (i) sustained usage of resources and a dialogic approach at a local level, (ii) metacognitive growth for practitioners, and (iii) sustained participation in a community of practice. The literature supported this initial theory of change, evidencing connections between the inputs and outputs, but the intervention went beyond the evidence to fill a theoretical, methodological, and pedagogical gap where there is currently a need for accessible, effective, sustainable and scalable professional learning opportunities and underpinning theories that may explain what works well and what does not.
+The literature supported this initial theory of change, evidencing connections between the inputs and outputs, but the intervention went beyond the evidence to fill a theoretical, methodological, and pedagogical gap where there is currently a need for accessible, effective, sustainable and scalable professional learning opportunities and underpinning theories that may explain what works well and what does not.
+
+Inputs included:
+1. The MOOC host site via github
+2. The T-SEDA toolkit contents and materials including additional materials produced by the Cambridge Educational Dialogue Research (CEDiR) team
+3. Discussion forum via a resource website, edudialogue.org
+
+The activities that were developed from these inputs included:
+1. Video tutorials and readings
+2. Individual, pair and group work activities
+3. Discussion forum contributions
+These activities did not seek to transmit knowledge regarding standardised uses of dialogic pedagogy, but rather developed resources and activities for local contextualisation to support its use, as emphasised by Hennessy et al. (2021).
+
+The outputs from participation in these activities included:
+1. Participant engagement and understanding through reflection and creation
+2. Developing a shared vision of dialogic pedagogy
+3. Sharing resources, contributing to one another’s ideas and learning, and other forms of peer support.
+
+Building on these outputs, the outcomes that came from this intervention included:
+1. More effective use of dialogic pedagogy in practice
+2. The formation of a peer network and community of practice.
+
+Areas of impact include:
+1. Sustained usage of resources and a dialogic approach at a local level
+2. Metacognitive growth for practitioners
+3. Sustained participation in a community of practice.
