@@ -2,7 +2,7 @@
 
 Data collection and analysis took place throughout the first seven phases of the research in a parallel mixed design whereby quantitative and qualitative research strands occurred simultaneously in a parallel manner (Teddlie & Tashakkori, 2009). The following table provides a summary of data collection sources and sampling approaches, by research phase.
 
-![alt](https://mbrugha.github.io/dissertation/img/table2.png)
+![alt](https://mbrugha.github.io/dissertation/img/datasources.png)
 
 The pilot research in Phase 1 built on the findings from a 15-month trial with the T-SEDA toolkit led by Hennessy and Kershner, funded by the Economic and Social Research Council’s (ESRC) Impact Acceleration Account (IAA). This trial included 74 teachers across 9 countries based in 15 institutions. Participants’ teaching contexts varied widely and included early years and primary education, secondary education, further and higher education. The study leads provided permission for their project data to be analysed and related findings are featured in Hennessy et al. (2021).
 
