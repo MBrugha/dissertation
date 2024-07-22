@@ -4,7 +4,18 @@ When selecting appropriate research methods for studying oTPD programmes, there 
 
 Summary of key learning:
 - Studies should articulate the rationale for the research, and clearly define the research context.
-- 
+- The research paradigm and theoretical framework for the research should be articulated. For this study, I opted for a research worldview instead of a selected paradigm, which incorporated a pragmatic set of philosophical assumptions of the nature of knowledge as socially constructed and a product of human interests (Habermas, 1968; Freire, 1970), elements of critical realism and theory (i.e. change theories that help with creating practical improvements and changes), non-representational theory in order to focus on practices instead of studying and representing social relationships (Thrift, 2008; Dewsbury, 2000; Merleau-Ponty, 2002)
+
+Research questions
+
+This study was guided by three main research questions:
+
+1. How can technology afford new forms of dialogue to support the development of a teacher community of practice in which practitioners reflect together, support one another, and share practice?
+2. To what extent can a mechanical MOOC afford opportunities to enhance dialogue between in-service teachers within an inquiry-based TPD programme?
+- What are the key enablers and barriers for the use of dialogic pedagogy in oTPD programmes?
+- What influences a teacher’s participation in online peer dialogue?
+- How do in-service teachers perceive and experience online learning in reference to their professional development?
+3. What design principles help to make the model scalable and sustainable?
 
 The theory of change at the outset of the study was:
 
