@@ -46,61 +46,20 @@ Triangulation was performed between the different data sources through cross-exa
 ## Findings
 
 ### Course participation
-The PPD course had 15 participants, all of whom were educational practitioners of some kind, working at school or higher education level. Demographic and engagement data from the PPD course were analysed for this study to form user profiles, which informed the design of the MOOC. These analyses focused on prior experiences with technology, perceptions of the use of technology for professional learning, and engagement in digitalised resources and online collaborative tools. Table 4 presents an overview of the course participants.
-Table 4: Participant information from the PPD course
-Participant information from the PPD course	% Participants (n = 15)
-Gender	Female	60%
-	Male	40%
-Age	25 or younger	7%
-	26–35	40%
-	36-45	20%
-	46-55	20%
-	56-65	7%
-	66 and older	7%
-Role	Primary/elementary teacher	33%
-	Secondary/A-level teacher	40%
-	Higher education lecturer	27%
-Prior experience with online professional learning	Yes	46%
-	No	54%
+The PPD course had 15 participants, all of whom were educational practitioners of some kind, working at school or higher education level. Demographic and engagement data from the PPD course were analysed for this study to form user profiles, which informed the design of the MOOC. These analyses focused on prior experiences with technology, perceptions of the use of technology for professional learning, and engagement in digitalised resources and online collaborative tools. Here is an overview of the course participants.
+
+![alt](https://mbrugha.github.io/course-in-a-box/img/table4.png)
 
 The first trial of the mechanical MOOC in February/March 2021 had 39 registered participants, 6 of whom completed all course requirements and were issued Certificates of Completion. The second trial in October/November 2021 had 28 participants register through completing the pre-course survey and at the time of writing , 6 participants completed the course requirements and will gain certificates. Because the surveys were not mandatory to complete in order to access the materials, it is difficult to ascertain whether there were other users who engaged in and completed the course materials, without their data being collected. Indeed, the MOOC user analytics suggest that significantly more new users (over 300 unique users) accessed the weekly materials than those who completed registrations. In addition, there were examples of course participants who were actively engaged in the discussion forum and live events and yet did not submit their final learning products in time to receive a certificate. One of these participants was interviewed in order to capture their perspective and the impact of the course on their practice despite not having fulfilled the formal obligations to receive certification. Their insights offer an important perspective for the design principles of the course. It will also be important, however, for future research to engage with the experience of the ‘inactive’ participant and the impact of the course on their practice in further detail.
+
 The pre-course registration questionnaires for the MOOC showed that participants came from a range of backgrounds and had different motivations for taking the MOOC. These include developing skills for facilitation (referenced by 75% of participants), gaining a deeper understanding of educational dialogue and applying more theory into their practice (46%), obtaining certification and participating in continuing professional development more generally (17%), networking and engaging with other professionals (21%), and an interest in exploring a mechanical MOOC (17%). All participants who completed the course cited gaining a deeper understanding of educational dialogue as a motivation for them taking the course. Participant demographics from the MOOC are presented in Table 5.
-Table 5: Participant information from the MOOC (Trial 2)
-Participant information from the MOOC (Trial 2)	% Participants (n = 24) 
-Gender	Female	57%
-	Male	43%
-Age	25 or younger	4%
-	26-35	38%
-	36-45	17%
-	46-55	21%
-	56-65	4%
-	66 and older	13%
-Role	Primary/elementary teacher	17%
-	Secondary/A-level teacher	17%
-	Higher education teacher	33%
-	Researcher	29%
-Geographical location	Africa	25%
-	East Asia and the Pacific	13%
-	Europe and Central Asia	42%
-	Middle East	13%
-	North America	4%
-	South Asia	4%
-Prior experience with MOOCs	Taken a MOOC, including one for professional development	46%
-	Taken a MOOC, but unrelated to profession	4%
-	Not taken a MOOC previously but familiar with them	29%
-	Not taken a MOOC before and not familiar with them	21%
+
+![alt](https://mbrugha.github.io/course-in-a-box/img/table5.png)
 
 Most participants were female (57%) and between the ages of 26 and 35 (38%). Participants were based in many different countries globally and were educators at different levels (ECE, primary/elementary, secondary/A-level, higher education) and the subjects they taught ranged considerably although there appeared to be a considerable number of mathematics and science teachers (approximately 50% of participants). Most (46%) reported that they had taken a MOOC before, including one for their professional development although a considerable number of participants had not taken a MOOC and were unfamiliar with them (21%). The participants who completed the course requirements all had taken a MOOC before, including one for their professional development.
 The materials were also available as a self-paced module in between the two MOOC trials, however user site analytics suggest mild traffic that engaged with the course sub-modules and even lower traffic that indicates transitions from one sub-module to the next (i.e. participants moving through the sub-modules in order). There were limited posts on the discussion forum (five posts from five participants) reserved for self-paced participants, however six participants completed the registration form in the Week 1 materials. The form responses showed similar variation in participants’ levels and subjects of teaching, their prior experiences with MOOCs, as well as their geographical location, as in the PPD course and live MOOC cohort, as shown in Table 6. None of the respondents shared their gender on the questionnaire.
-Table 6: Participant information from the self-paced version of the MOOC
-Participant information from the MOOC (self-paced)	% Participants (n = 6)
-Role	Primary/elementary teacher	33%
-	Secondary/A-level teacher	50%
-	Higher education teacher	17%
-Geographical location	Africa	67%
-	Europe & Central Asia	33%
-Prior experience with MOOCs	Not taken a MOOC previously but familiar with them	50%
-	Not taken a MOOC before and not familiar with them	50%
+
+![alt](https://mbrugha.github.io/course-in-a-box/img/table6.png)
 
 They described their motivations for taking the course as developing skills for facilitation (referenced by 50% of participants), gaining a deeper understanding of educational dialogue and applying more theory into their practice (33%), and obtaining certification and participating in continuing professional development more generally (67%). Regardless of the desire to obtain a certificate, no participants who selected this as their motivation for taking the course received certificates of completion from either the self-paced version or the live cohort.
 One of the core findings in the study was the importance of collecting and documenting information regarding participants’ demographics and prior experiences with technology and educational dialogue in order to ensure that the structure and materials were relevant (see Design Principles 6 and 7). Analysis regarding relevance was conducted using all data sources following each trial of the course in order to capitalise on the intervention cycles, using findings to make adjustments to the course structure and materials.
