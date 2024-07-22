@@ -1,6 +1,5 @@
-Case studies
+## Case studies
 
-Chapter 6: Case Studies
 This chapter presents three case studies, which explore the local impact of the MOOC, educators’ perceptions and experiences of oTPD, and the reach and equitable access of oTPD. The case studies are presented in a similar way to the previous findings and discussion chapter for consistency of style. A background section is provided for each which includes related literature, followed by the studies’ aims and methods, and then associated findings are presented and discussed. The case studies all conclude with implications for practice and recommendations for future research.
 6.1. Case study 1: Local impact of a global MOOC
 6.1.1. Overview
