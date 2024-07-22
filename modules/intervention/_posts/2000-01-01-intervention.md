@@ -1,7 +1,6 @@
+# The Educational Dialogue MOOC series
 
-## Course design
-
-This section provides an overview of the course design process for each of the three courses within the series, and the series as a whole.
+This research resulted in an educational dialogue MOOC series comprised of three courses, based around some of the intersecting main research areas of the CEDiR group. These courses aim to contribute to a community of practice in educational dialogue. All courses were free for anyone to take and did not require registration or account creation to be able to access the materials. The content differed between courses within the MOOC series, which is summarised on the next three pages. This provides a broad overview of the content, however there is significantly more available within the courses themselves.
 
 A pilot phase was conducted, which resulted in an initial scope of the course structure and content. All courses within the series were then built on github, which involved forking the ‘course-in-a-box’ repository and modifying it to suit the unique needs of this study and the intended participants. For this, a simple menu was designed, which included a home page, an introductory section and six weeks of course content.
 
@@ -13,23 +12,23 @@ The course model was trialled three times with associated data collection and an
 
 The structure of the course incorporated a significant level of flexibility, because of the widespread recognition that conditions in most institutions do not support a strict schedule for professional development and educators are therefore unable to commit to something rigid. As such, a balance was aimed for in which flexibility was provided in the course through asynchronous activities and tasks alongside enough structure and synchronous events to ensure that momentum was not lost. Participants were told to expect to spend approximately 2 to 3 hours per week on course readings, activities and discussions. While participants were able to complete the weekly tasks at their convenience and according to their own schedules, it was expected that all tasks for the week would be completed by the 11:59 PM Sunday nights GMT each week. There were no fees for participants taking the MOOC and certificates were granted for the completion of a cohort from T-SEDA.
 All courses in the series included six weeks of content, which were identical in their structure. This was modelled after Learning Creative Learning  and leveraged successes from other similar TPD MOOCs, carefully considering user experience. Each of these weeks offered the same structure for consistency: Focus, Read, Do, and Discuss.
-Focus
+
+**Focus**
 A video was included for each week, which provided an introduction to and overview of the thematic focus. A transcript for this video was also provided for participants to download. This was particularly valuable for participants in settings with poor internet bandwidth.
  
-Read
+**Read**
 Relevant readings were provided, which included approximately two or three core readings and a few additional / supplementary readings for further exploration if desired by participants. This only included open access readings.
  
-Do
+**Do**
 Activities were included in each of the sections / weeks, and where possible they involved collaboration and discussion between participants. These included live webinars, individual study tasks undertaken individually or in pairs / groups with their research buddies or colleagues, and coding data exchanged with peers.
  
-Discuss
+**Discuss**
 A topic (or series of topics) was posed for contributions to the discussion forum every week to enable reflective thought and dialogue between participants. Appropriate functionality was in place to ensure that participants could ‘like’ and respond to one another’s posts. In addition, participants were encouraged and reminded to use the discussion forum throughout the MOOC and beyond for anything in addition to questions posed by the course facilitator. Participants were able to start their own channels, and were free to group themselves according to language, teaching level, etc., although they rarely took up this opportunity and the couple of channels that did emerge had very little uptake that did not last beyond the length of the six-week cohort.
 The discussion forum required participants to sign-up and review community guidelines to access the channels for the course, which are included in Appendix N.
  
-Edudialogue.org
-The MOOC involved traffic to another website, edudialogue.org, for participants to use the discussion forum. The design of this website was led by myself and my supervisor, Professor Sara Hennessy, with input from other CEDiR members, to ensure that it was user friendly and relevant to the needs of educators using T-SEDA and other CEDiR materials. The site hosted the discussion forum alongside a range of resources related to educational dialogue.
+**Edudialogue.org**
+The MOOC involved traffic to another website, edudialogue.org, for participants to use the discussion forum. The design of this website was led by myself and my supervisor, Professor Sara Hennessy, with input from other CEDiR members, to ensure that it was user friendly and relevant to the needs of educators using T-SEDA and other CEDiR materials. The site hosted the discussion forum alongside a range of resources related to educational dialogue. This website was importantly conceptualised to run alongside the MOOC to contribute to a wider culture and vision in a community of practice. The importance of this is summarised by Facilitator G (2019 transcript, pilot research) as follows:
 
- 
-This website was importantly conceptualised to run alongside the MOOC to contribute to a wider culture and vision in a community of practice. The importance of this is summarised by Facilitator G (2019 transcript, pilot research) as follows:
-The main challenge is to provide this mass of materials and people speaking about it, and discourse and presence and pressure in order for all of it to be regarded as a culture … We're missing an effective dialogic unit that works and people can see it working, buy into that, get apprenticed into it, and since we're missing it, it's only bits and pieces.
+> The main challenge is to provide this mass of materials and people speaking about it, and discourse and presence and pressure in order for all of it to be regarded as a culture … We're missing an effective dialogic unit that works and people can see it working, buy into that, get apprenticed into it, and since we're missing it, it's only bits and pieces.
+
 During the pilot phase interviews, facilitators were positive towards the idea of a CEDiR website for the purpose of creating a community of practice more widely. Key considerations for the design of this additional site included: (i) Considering accessibility and engagement through ensuring that the website was not visually cluttered, was easy to navigate, was engaging with a consistent brand to the MOOC and other CEDiR materials and resources, and had considered issues related to physical accessibility. (ii) Collating and presenting quality resources that are easily searchable and navigable and offering pathways for users who know what they are looking for as well as for those users who want to be brought through the website from one resource to another. (iii) Conducting user testing with multiple individuals to ensure relevance and inclusivity. (iv) Modelling usage, encouraging buy-in and stimulating enthusiasm through my role as the course facilitator and through enabling engaged participants to become ‘champions’ to help stimulate conversations on the forum. (v) Considering privacy issues and how the website usage is monitored.
