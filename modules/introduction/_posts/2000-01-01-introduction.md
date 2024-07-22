@@ -9,10 +9,7 @@ The following video offers an introduction to this site, my research, and how to
 Download a written version of the video content [here](content to be inserted).
 
 Links mentioned in the video:
-* [About the course](https://mbrugha.github.io/course-in-a-box/about/)
 * The Teacher Scheme for Educational Dialogue Analysis ([T-SEDA](https://www.educ.cam.ac.uk/research/programmes/tseda/))
-* [Discussion forum](https://www.edudialogue.org/forum/mooc-for-facilitators/)
-* [Site user guide](https://mbrugha.github.io/course-in-a-box/modules/introduction/user-guide/)
 
 ## About me:
 
@@ -41,13 +38,12 @@ This online course has been developed to house the findings of this study in an 
 
 Please note that this online course version has been launched using open source software, which requires it to be open to the public in order for examiners to view the content. As such, and in line with university regulations, it is currently only preliminary to be confirmed following my viva.
 
-The [Theory and Evidence page](https://mbrugha.github.io/dissertation/modules/theory%20&%20evidence/theory-&-evidence/) offers a review of the literature and evidence in the sector. This review explored the three main areas of the study: (i) educational dialogue; (ii) teacher professional development; and (iii) online learning and (mechanical) MOOCs. The literature review considered these separately and in combination.
+The [Theory and Evidence section](https://mbrugha.github.io/dissertation/modules/theory%20&%20evidence/theory-&-evidence/) offers a review of the literature and evidence in the sector. This review explored the three main areas of the study: (i) educational dialogue; (ii) teacher professional development; and (iii) online learning and (mechanical) MOOCs. The literature review considered these separately and in combination.
 
-The [Research Methods page](https://mbrugha.github.io/dissertation/modules/research%20methods/research-methods/) presents the methodology utilised for the study, including the stages of data collection and analysis, limitations of the research, and ethical considerations.
+The [Research Methods section](https://mbrugha.github.io/dissertation/modules/research%20methods/research-methods/) presents the methodology utilised for the study, including the stages of data collection and analysis, ethical considerations, and limitations of the research.
 
-The [Intervention page](https://mbrugha.github.io/dissertation/modules/intervention/trial1/) provides a detailed overview of the intervention, i.e. the three course trials developed and launched, including a breakdown of their conceptual framework, the structure and content, and the number and demographic overview of participants for each trial. This includes 4 user profiles that will be used during the discussion of findings.
+The [Intervention section](https://mbrugha.github.io/dissertation/modules/intervention/trial1/) provides a detailed overview of the intervention, i.e. the three course trials developed and launched, including a breakdown of their conceptual framework and their the structure and content.
 
-The [Findings page](https://mbrugha.github.io/dissertation/modules/findings/findings/) is broken down by the three research question focus areas: (i) Supporting the development of an online Community of Practice; (ii) Leveraging technology to enhance dialogue in online professional learning; (iii) Design principles for sustainability and scalability. A detailed interrogation of the data and discussion of the results is offered for each of these research question subject areas.
+The [Findings section](https://mbrugha.github.io/dissertation/modules/findings/findings/) presents the formation, trial and refinement of the design principles, followed by three case studies.
 
-The final section is the [Research conclusions](https://mbrugha.github.io/dissertation/modules/conclusions/conclusions/), which offer implications of the research findings for the sector and recommendations regarding future research directions.
-
+The final section is [Conclusions](https://mbrugha.github.io/dissertation/modules/conclusions/conclusions/), which offer a summary of key findings, implications of the research findings for the sector and recommendations regarding future research directions.
