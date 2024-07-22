@@ -16,7 +16,7 @@ Links mentioned in the video:
 
 About me:
 
-![alt](https://mbrugha.github.io/course-in-a-box/img/meaghan.png)
+![alt](https://mbrugha.github.io/course-in-a-box/img/meaghan.jpg)
 
 Hello! My name is Meaghan and I am fascinated with the affordances technology can offer education. While my consulting career has included research studies and evaluations on the use of technology in a variety of grades, locations and level of 'formality' in education settings, my master's research explored equity and access in MOOCs. Following from this, my doctoral research has utilised a design-based approach to explore this further and develop and trial three mechanical MOOCs for teachers.
 
