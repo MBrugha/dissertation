@@ -1,4 +1,4 @@
-## Welcome to the site!
+# Welcome to the site!
 
 The following video offers an introduction to this site, my research, and how to navigate through the findings:
 
@@ -14,13 +14,13 @@ Links mentioned in the video:
 * [Discussion forum](https://www.edudialogue.org/forum/mooc-for-facilitators/)
 * [Site user guide](https://mbrugha.github.io/course-in-a-box/modules/introduction/user-guide/)
 
-About me:
+## About me:
 
 ![alt](https://mbrugha.github.io/dissertation/img/meaghan.jpg)
 
 Hello! My name is Meaghan and I am fascinated with the affordances technology can offer education. While my consulting career has included research studies and evaluations on the use of technology in a variety of grades, locations and level of 'formality' in education settings, my master's research explored equity and access in MOOCs. Following from this, my doctoral research has utilised a design-based approach to explore this further and develop and trial three mechanical MOOCs for teachers.
 
-About my research:
+## About my research:
 My doctoral research study has sought to explore the intersection of online learning and dialogic pedagogy to enhance teacher professional development designed for school-level and higher education in-service teachers. There is a growing body of compelling evidence about the impact of teacher-led dialogue, and research that indicates dialogic methods in the classroom lead to improved learner performance. The literature makes it clear that TPD offers an opportunity to strengthen the quality of teaching and through this, the educational outcomes of learners. Effective TPD programmes regarding educational dialogue are therefore necessary to develop and trial to promote this pedagogy, as well as to explore how technology may afford new forms of interaction and dialogue among teachers pursuing online professional development.
 
 The context of Covid-19, in which the bulk of this research study was conducted, created a sense of urgency in the development of online learning opportunities that are relevant for a wide range of teachers as well as virtual communities of practice for teachers to share good practice, resources, and support one another. Following the decline of Covid-19 isolation, this continues to be an important area for further investigation. Particularly as MOOCs continue to be subject to both high hopes for addressing inequity in accessing lifelong learning opportunities and significant criticality in who actually benefit. I studied this during my master’s research and indeed found discouraging results that suggested learners were from *include overview of demographics - can cite book chapter with Dr. Restoule*.
@@ -36,8 +36,8 @@ Three research questions drove the direction of the study.
 2. To what extent can a MOOC afford opportunities to enhance dialogue between in-service teachers within an inquiry-based TPD programme?
 3. What design principles help to make the model (i.e. a dialogic MOOC-based CoP for TPD) scalable and sustainable?
 
-About this course:
-This online course has been developed to house the findings of this study in an effort to produce and disseminate open, accessible, and easily navigable and usable results. Indeed, since this research explored how to design an online course, it felt fitting that the findings be presented in a course - i.e. a course on how to design, facilitate and evaluate a course. This online course references everything that is also included in my written version of the dissertation but in a format that was considered to be more appropriate to an online platform and course structure. In keeping with the conceptual framework and findings of the research, this course also includes reflective prompts throughout the pages of content. These were used for my own reflective logs throughout the entirety of my PhD journey, and are offered here as a resource while you engage with the research findings.
+## About this course:
+This online course has been developed to house the findings of this study in an effort to produce and disseminate open, accessible, and easily navigable and usable results. Indeed, since this research explored how to design an online course, it felt fitting that the findings be presented in a course - i.e. a course on how to design, facilitate and evaluate a course. This online course offers sections of my written version of the dissertation but in a format that was considered to be more appropriate to an online platform and course structure. In keeping with the conceptual framework and findings of the research, this course also includes reflective prompts throughout the pages of content. These were used for my own reflective logs throughout the entirety of my PhD journey, and are offered here as a resource while you engage with the research findings.
 
 Please note that this online course version has been launched using open source software, which requires it to be open to the public in order for examiners to view the content. As such, and in line with university regulations, it is currently only preliminary to be confirmed following my viva.
 
@@ -50,6 +50,4 @@ The [Intervention page](https://mbrugha.github.io/dissertation/modules/intervent
 The [Findings page](https://mbrugha.github.io/dissertation/modules/findings/findings/) is broken down by the three research question focus areas: (i) Supporting the development of an online Community of Practice; (ii) Leveraging technology to enhance dialogue in online professional learning; (iii) Design principles for sustainability and scalability. A detailed interrogation of the data and discussion of the results is offered for each of these research question subject areas.
 
 The final section is the [Research conclusions](https://mbrugha.github.io/dissertation/modules/conclusions/conclusions/), which offer implications of the research findings for the sector and recommendations regarding future research directions.
-
-In keeping with the conceptual framework and findings of the research, reflective prompts have been included throughout the this course content. These were used for my own reflective logs throughout the entirety of my PhD journey, but can indeed be repurposed for others engaging with these research findings.
 
