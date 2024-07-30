@@ -2,6 +2,12 @@
 
 This research resulted in an educational dialogue MOOC series comprised of three courses, based around some of the intersecting main research areas of the CEDiR group. These courses aim to contribute to a community of practice in educational dialogue. All courses were free for anyone to take and did not require registration or account creation to be able to access the materials. The content differed between courses within the MOOC series, which is summarised on the next three pages. This provides a broad overview of the content, however there is significantly more available within the courses themselves.
 
+As you review this section's content, reflect on the following:
+
+1. When designing an educational intervention that uses technology, what do you think (in your experience as a course designer, course facilitator, or course participant) are the most significant factors for ensuring: enrolment, engagement, collaboration, reflection, retention, and completion?
+2. What are some of the most interesting / engaging features you have come across in online professional learning programmes and networks? Are these features sustainable and scalable? Why or why not?
+3. At which points should key stakeholders (e.g. future course participants, community members, sector experts, etc.) be involved? How might this impact the course design?
+
 A pilot phase was conducted, which resulted in an initial scope of the course structure and content. All courses within the series were then built on github, which involved forking the ‘course-in-a-box’ repository and modifying it to suit the unique needs of this study and the intended participants. For this, a simple menu was designed, which included a home page, an introductory section and six weeks of course content.
 
 The course design was reiterated following each of the three trials. The pilot phase included plans for the course site build, the course structure, resources, the discussion forum and data collection tools. 
