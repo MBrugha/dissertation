@@ -1,5 +1,10 @@
 # Conclusions
 
+As you review the following conclusions, reflect on the following:
+
+1. What are your key takeaways from this research as it relates to your practice and setting?
+2. What is the most impactful way that this research can be mobilised?
+
 ## Summary of key findings
 
 A summary of the key findings from the research is provided in this section, framed by the study’s three main research questions. These are themes that consistently emerged from the data analysis across all sources, which were pulled together through the mixed methods approach and triangulated.
