@@ -4,6 +4,12 @@ When selecting appropriate research methods for studying oTPD programmes, there 
 
 Studies should offer a detailed rationale for their research, clearly define the research context, and articulate the paradigm and theoretical framework that underpins the research. For this study, I opted for a research worldview instead of a selected paradigm, which incorporated a pragmatic set of philosophical assumptions of the nature of knowledge as socially constructed and a product of human interests (Habermas, 1968; Freire, 1970), elements of critical realism and theory (i.e. change theories that help with creating practical improvements and changes), non-representational theory in order to focus on practices instead of studying and representing social relationships (Thrift, 2008; Dewsbury, 2000; Merleau-Ponty, 2002)
 
+As you review the content in these sections, reflect on the following:
+
+1. What are the ethical dimensions for research of this nature?
+2. What limitations continue to subsist in the methodologies utilised in this study and throughout the sector more widely?
+3. How can we collect more meaningful data through leveraging the affordances of big data and technology-based analysis software and communities?
+
 ## Research questions
 
 This study was guided by three main research questions:
