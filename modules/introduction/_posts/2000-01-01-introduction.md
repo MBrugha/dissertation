@@ -1,15 +1,8 @@
 # Welcome to the site!
 
-The following video offers an introduction to this site, my research, and how to navigate through the findings:
+The following video offers an introduction to this site, my research, and what you can expect from the different sections:
 
-*This video is from the course - keeping it here as a placeholder until I update the content*
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ezygcfPf0HI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Download a written version of the video content [here](content to be inserted).
-
-Links mentioned in the video:
-* The Teacher Scheme for Educational Dialogue Analysis ([T-SEDA](https://www.educ.cam.ac.uk/research/programmes/tseda/))
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ze-SoywAJx4?si=LcYL50Nc-0wyvo4t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## About me:
 
