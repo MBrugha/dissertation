@@ -3,7 +3,7 @@
 The second publication is an extension of the initial design principles, whereby the design principles were tested and refined accordingly. This publication was published in Routledge Open Research in the Digital Pedagogy Collection and was co-authored with Dr Farah Ahmed, with myself leading the research analysis and writing, and with continued support from Farah regarding the conceptual framework, writing, and revisions.
 
 The full reference is:
->Brugha, M. and Ahmed, F. (2023). Teacher professional development in educational dialogue: lessons from a massive open online course. Routledge Open Research, 2:15. https://doi.org/10.12688/routledgeopenres.17681.1
+>Brugha, M. and Ahmed, F. (2023). Teacher professional development in educational dialogue: lessons from a massive open online course. Routledge Open Research, 2:15. [https://doi.org/10.12688/routledgeopenres.17681.1](https://doi.org/10.12688/routledgeopenres.17681.1)
 
 _Note that revisions to this manuscript based on reviewers’ feedback are currently being finalised for resubmission to the journal shortly. The text here is the current working copy._
 
