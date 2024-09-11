@@ -4,11 +4,15 @@ The following video offers an introduction to this site, my research, and what y
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ze-SoywAJx4?si=LcYL50Nc-0wyvo4t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<br>
+
 ## About me:
 
 ![alt](https://mbrugha.github.io/dissertation/img/aboutme.png)
 
 Hello! My name is Meaghan and I am fascinated with the affordances technology can offer education. While my consulting career has included research studies and evaluations on the use of technology in a variety of grades, locations and level of 'formality' in education settings, my master's research explored equity and access in MOOCs. Building on this, my doctoral research has utilised a design-based approach to explore this area of research further and develop and trial three mechanical MOOCs for educators.
+
+<br>
 
 ## About my research:
 My doctoral research study has sought to explore the intersection of online learning and dialogic pedagogy to enhance teacher professional development. There is a growing body of compelling evidence about the impact of teacher-led dialogue, and research that indicates dialogic methods in the classroom lead to improved learner performance. The literature makes it clear that TPD offers an opportunity to strengthen the quality of teaching and through this, the educational outcomes of learners. Effective TPD programmes regarding educational dialogue are therefore necessary to develop and trial to promote this pedagogy, as well as to explore how technology may help to mobilise this widely as well as afford new forms of dialogue among educators pursuing online professional development.
