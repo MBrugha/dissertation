@@ -29,6 +29,8 @@ Three research questions drove the direction of the study.
 2. To what extent can a mechanical MOOC afford opportunities to enhance dialogue between in-service teachers within an inquiry-based TPD programme?
 3. What design principles help to make the model scalable and sustainable?
 
+<br>
+
 ## About this course:
 This online course has been developed to house the findings of this study in an effort to produce and disseminate open, accessible, and easily navigable and usable results. Indeed, since this research explored how to design an online course, it felt fitting that the findings be presented in a course - i.e. a course on how to design, facilitate and evaluate a course. This online course offers sections of my written version of the dissertation but in a format that was considered to be more appropriate to an online platform and course structure. In keeping with the conceptual framework and findings of the research, this course also includes reflective prompts throughout the pages of content. These were used for my own reflective logs throughout the entirety of my PhD journey, and are offered here as a resource while you engage with the research findings.
 
@@ -42,4 +44,4 @@ The [Intervention section](https://mbrugha.github.io/dissertation/modules/interv
 
 The [Findings section](https://mbrugha.github.io/dissertation/modules/findings/findings/) presents the formation, trial and refinement of the design principles, followed by three case studies.
 
-The final section offers [Conclusions](https://mbrugha.github.io/dissertation/modules/conclusions/conclusions/), which include a summary of key findings, implications of the research findings for the sector, and recommendations regarding future research directions.
+The final section offers [conclusions](https://mbrugha.github.io/dissertation/modules/conclusions/conclusions/), which include a summary of key findings, implications of the research findings for the sector, and recommendations regarding future research directions.
