@@ -53,18 +53,7 @@ The underpinning theoretical framework of mechanical MOOCs posits that courses s
 
 The course benefitted from integrating monitoring and evaluation in the course design in order to ensure that future iterations of the course were informed by the experiences of participants. Questions for future participants should include details regarding teacher agency, empowerment, access, equity, sustainability and scalability. These questions and evaluation processes should also require very little input from research staff, e.g. through the use of integrated survey software with closed questions. It is imperative that the design of the research tools considers sustainability and scalability carefully, and can accommodate a larger participant base.
 
-> [!TIP]
-> Researchers and course providers should consider articulating these design principles for course participants themselves. This should include how participants can leverage the design principle in order to enhance their experience and learning in the course. This can then be recalled during data collection to elicit their feedback regarding any further modifications required to the design principles.
-
-<br>
-
-## Reading
-
-For more information and details regarding the findings and the design principles, I recommend reading the following two publications, which I co-authored with CEDiR colleagues:
-
->Brugha, M. & Hennessy, S. (2022). Educators as Creators: Lessons from a mechanical MOOC on educational dialogue for local facilitators. Irish Educational Studies 41(1), 225-243. [https://doi.org/10.1080/03323315.2021.2022527](https://doi.org/10.1080/03323315.2021.2022527)
-
->Brugha, M. and Ahmed, F. (2023). Teacher professional development in educational dialogue: lessons from a massive open online course. Routledge Open Research, 2:15. [https://doi.org/10.12688/routledgeopenres.17681.1](https://doi.org/10.12688/routledgeopenres.17681.1)
+> TIP: Researchers and course providers should consider articulating these design principles for course participants themselves. This should include how participants can leverage the design principle in order to enhance their experience and learning in the course. This can then be recalled during data collection to elicit their feedback regarding any further modifications required to the design principles.
 
 <br>
 
@@ -79,3 +68,13 @@ The following further design considerations have been summarised from interviews
 5. The regulatory environment and amount of institutional support and alignment with the course pedagogy of focus and its delivery model deeply affect participants’ uptake of the materials and the implementation of those materials into their practice. Course designers should consider whether educators have support at their institutional and district level to spend the time on a course. 
 
 In addition to the design principles identified above, the importance of the role of the local facilitator continued to emerge as critical in discussions regarding scalability, sustainability and impact in these conversations. This relates back to the mechanical MOOC model and the focus on leveraging technology for enhancing community not only globally but also within the local settings of practitioners.
+
+<br>
+
+## Further reading
+
+For more information and details regarding the findings and the design principles, I recommend reading the following two publications, which I co-authored with CEDiR colleagues:
+
+>Brugha, M. & Hennessy, S. (2022). Educators as Creators: Lessons from a mechanical MOOC on educational dialogue for local facilitators. Irish Educational Studies 41(1), 225-243. [https://doi.org/10.1080/03323315.2021.2022527](https://doi.org/10.1080/03323315.2021.2022527)
+
+>Brugha, M. and Ahmed, F. (2023). Teacher professional development in educational dialogue: lessons from a massive open online course. Routledge Open Research, 2:15. [https://doi.org/10.12688/routledgeopenres.17681.1](https://doi.org/10.12688/routledgeopenres.17681.1)
