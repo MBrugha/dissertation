@@ -1,17 +1,29 @@
-# Refining the design principles
+# The design principles
 
-The second publication is an extension of the initial design principles, whereby the design principles were tested and refined accordingly. This publication was published in Routledge Open Research in the Digital Pedagogy Collection and was co-authored with Dr Farah Ahmed, with myself leading the research analysis and writing, and with continued support from Farah regarding the conceptual framework, writing, and revisions.
+Drawing on the findings, ten design principles were developed for scalable and sustainable online professional development course models and communities of practice that promote practitioner reflection, agency and empowerment, and that view educators as valuable creators and contributors to professional learning resources.
 
-The full reference is:
->Brugha, M. and Ahmed, F. (2023). Teacher professional development in educational dialogue: lessons from a massive open online course. Routledge Open Research, 2:15. [https://doi.org/10.12688/routledgeopenres.17681.1](https://doi.org/10.12688/routledgeopenres.17681.1)
-
-_Note that revisions to this manuscript based on reviewers’ feedback are currently being finalised for resubmission to the journal shortly. The text here is the current working copy._
+| Design principle | Description |
+| -------- | ------- |
+| Design Principle 1 | Integrate accountability mechanisms in the design of the course |
+| Design Principle 2 | Provide a balance of flexibility and structure in the design of learning pathways and materials |
+| Design Principle 3 | Offer opportunities for meaningful dialogue and collaboration amongst participants |
+| Design Principle 4 | Incorporate reflective activities for both local facilitators and their colleagues |
+| Design Principle 5 | Offer opportunities for participants to create and share artefacts |
+| Design Principle 6 | Consider the role of the participant in shaping the learning environment |
+| Design Principle 7 | Position accessibility centrally in the design of the course |
+| Design Principle 8 | Align the course model and platform with the pedagogy of focus (i.e. the pedagogy the course seeks to impart) |
+| Design Principle 9 | Be intentional regarding the future of the course and consider whether and how scaffolding should be reduced for future iterations |
+| Design Principle 10 | Build systematic monitoring and evaluation of the course into its structure |
 
 <br>
 
-## Abstract
+## Reading
 
-Online Teacher Professional Development (oTPD) courses have become increasingly prevalent and may offer continued support for the formation and sustainability of teacher communities of practice. This study explores the format and structure of one form of online TPD delivery through the analysis of a Massive Open Online Course (MOOC) designed for educators on the fundamentals of educational dialogue. This research examines and reconsiders the ways in which we learn, teach and commune as professionals and learners online. It also explicitly builds on previous research conducted by Brugha and Hennessy (2022), which offers ten design principles for scalable and sustainable online professional learning programmes that promote practitioner reflection, agency and empowerment. The findings indicate that technology can be leveraged to provide impactful, theoretically informed professional learning opportunities for educators through providing: a balance of structure and customisation, opportunities to collaborate with peers, reflective materials. The findings from this course trial support and build on all ten design principles presented in Brugha and Hennessy (2022). Impact (i.e. changes in the ways that participants thought about their practice, and the enactment of theory into their practice) appeared to be strengthened when the ten design principles were met, which indicates that the highest impact can come when these themes and design principles are addressed together in course design and delivery.
+For more information and details regarding the findings and the design principles, I recommend reading the following two publications, which I co-authored with CEDiR colleagues:
+
+>Brugha, M. & Hennessy, S. (2022). Educators as Creators: Lessons from a mechanical MOOC on educational dialogue for local facilitators. Irish Educational Studies 41(1), 225-243. [https://doi.org/10.1080/03323315.2021.2022527](https://doi.org/10.1080/03323315.2021.2022527)
+
+>Brugha, M. and Ahmed, F. (2023). Teacher professional development in educational dialogue: lessons from a massive open online course. Routledge Open Research, 2:15. [https://doi.org/10.12688/routledgeopenres.17681.1](https://doi.org/10.12688/routledgeopenres.17681.1)
 
 <br>
 
