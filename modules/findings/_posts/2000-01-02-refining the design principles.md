@@ -2,18 +2,57 @@
 
 Drawing on the findings, ten design principles were developed for scalable and sustainable online professional development course models and communities of practice that promote practitioner reflection, agency and empowerment, and that view educators as valuable creators and contributors to professional learning resources.
 
-| Design principle | Description |
-| -------- | ------- |
-| Design Principle 1 | Integrate accountability mechanisms in the design of the course |
-| Design Principle 2 | Provide a balance of flexibility and structure in the design of learning pathways and materials |
-| Design Principle 3 | Offer opportunities for meaningful dialogue and collaboration amongst participants |
-| Design Principle 4 | Incorporate reflective activities for both local facilitators and their colleagues |
-| Design Principle 5 | Offer opportunities for participants to create and share artefacts |
 | Design Principle 6 | Consider the role of the participant in shaping the learning environment |
 | Design Principle 7 | Position accessibility centrally in the design of the course |
 | Design Principle 8 | Align the course model and platform with the pedagogy of focus (i.e. the pedagogy the course seeks to impart) |
 | Design Principle 9 | Be intentional regarding the future of the course and consider whether and how scaffolding should be reduced for future iterations |
 | Design Principle 10 | Build systematic monitoring and evaluation of the course into its structure |
+
+**Design Principle 1: Integrate accountability mechanisms in the design of the course**
+
+Accountability mechanisms are needed for participants to consistently engage in and complete the materials. While the data for this course and the literature more widely (e.g. see Rodriguez et al., 2020) shows that retention continues to be a significant challenge for MOOCs, the learning communities afforded by the mechanical MOOC model should be leveraged for courses with a growing number of participants. This model acts as a community hub in which learning communities can be easily derived and scaled as an explicit part of the course. Accountability can be enhanced through:
+- Offering a mixture of live and self-paced options,
+- Offering meaningful opportunities for participants to interact and collaborate, and
+- Establishing a relationship with participants.
+
+**Design Principle 2: Provide a balance of flexibility and structure in the design of learning pathways and materials**
+
+The varied backgrounds and prior experiences participants had using educational dialogue in their practice necessitated a flexible course design that is accessible for different settings alongside individualised needs assessments. This allowed for the selection of appropriate learning pathways with a ladder of support for participants to access as needed. The course materials and resources should also offer a blend of structure and flexibility with customisable options.
+
+**Design Principle 3: Offer opportunities for meaningful dialogue and collaboration amongst participants**
+
+Participants were keen to share their knowledge and learn from others in the course, yet there was poor engagement with most of the communication and collaborative features in the course. This is a challenge shared by many online courses and traditional learning platforms, which makes the role of the local facilitator integral in creating those dialogues within their own settings amongst the colleagues they intend to support and convene. Successful methods for encouraging dialogue and collaboration include:
+- Having synchronous and asynchronous modes of communication explicitly as part of the course design;
+- The research buddy system indicated a promising avenue for peer reflection, support and collaboration, which participants considered impactful for both their learning and retention;
+- Allow space for participants to lead events themselves and functionality for them to plan and orchestrate this.
+
+**Design Principle 4: Incorporate reflective activities for both local facilitators and their colleagues**
+
+Inquiry-based learning positions teacher agency and empowerment as central in the design and implementation of the course. Rather than a TPD programme with a designated ‘expert’ imparting knowledge on subject or pedagogical content, this course offers a continuous process in which dialogue-focused, explicitly contextualised inquiry is led by practitioners themselves supported by local facilitators. The course provides tools for local facilitators to use while convening their colleagues that promote continued reflection and include ways that practitioners can continually reassess and adapt their practice. Reflective activities should be explicitly and strategically embedded in course videos, resources and activities, including the use of reflective journals or other related templates that can be adjusted based on the unique context of the participant. There should also be an adequate amount of time built into the course for participants to employ their reflections regarding the theoretical or practical materials in their settings.
+
+**Design Principle 5: Offer opportunities for participants to create and share artefacts**
+
+Participants in both trials of the MOOC and the PPD course noted the benefit of creating research products relevant to their contexts, and also shared their desire for accessing learning from others through the use of a resource bank. Courses should provide functionality in which practitioners can build on the available resources and share adapted versions in a meaningful way. This refers to the local facilitator participants in the MOOC as well as the teachers that they intend to convene in their settings, in order to enable the growth of an educational dialogue community of practice that emphasises collaboration and the co-construction of knowledge.
+
+Design Principle 6:
+Consider the role of the
+participant in shaping the
+learning environment	Based on the amount of interest from participants in participating in post-course research, Design Principle 6 should additionally recommend that participants are offered the opportunity to contribute to associated course-related research.
+Design Principle 9: Be
+intentional regarding the
+future of the course and
+consider whether and how scaffolding should be reduced for future
+iterations	Design Principle 9 should include the success of a multiple course model, which has been shown to bring together a number of the design principles. This course offers a rare opportunity for practitioners to reflect on theory prior to engaging in a more practical inquiry (Course 2) and eventually pedagogical leadership in their setting (Course 3). The expectation is that this results in an environment that progressively requires less facilitator support.
+Design Principle 10: Build
+systematic monitoring
+and evaluation of the
+course into its structure	Design Principle 10 should consider the automation of monitoring and evaluation processes to accommodate a larger participant base. This could also aid in automating the ladder of support available for
+participants, which strengthens the potential of Design Principle 9 to
+scale back support and reduce scaffolding from facilitators.
+All design principles	In addition to their current iteration with the above modifications, we
+recommend that the ten design principles are additionally articulated for course participants themselves. This should include how participants can leverage the design principle in order to enhance their experience and learning in the course. This can then be recalled during data collection to elicit their feedback regarding any further modifications required to the design principles.
+![image](https://github.com/user-attachments/assets/35fd21fd-6bd7-4e85-af87-926c6639b19e)
+
 
 <br>
 
