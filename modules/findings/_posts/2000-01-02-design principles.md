@@ -1,7 +1,28 @@
 # Findings
 
 ## The participants
-to be inserted
+The findings draw on data from four courses. The first is a practitioner professional development (PPD) course that was featured in the pilot research. Then there are the three courses from the MOOC series. Below is an overview of the number of participants who filled out a pre-course survey for each course.
+
+- Pilot research (PPD course): 15 participants
+- Trial 1: 39 participants
+- Trial 2: 28 participants
+- Trial 3: 212 participants
+
+As an example of participant demographics, this is an overview of participants from trial 3 (i.e. participants in ‘The Fundamentals of Educational Dialogue’ MOOC). 
+
+208 participants from 40 countries enrolled in the course and completed the pre-course survey. The following figure was developed for the publication featured in Thematic Inquiry 2 (Brugha et al., 2024).
+
+
+
+When asked about their experience with MOOCs, 74% of participants said that they were not experienced with MOOCs, while only 26% said that they had prior experience.
+
+Their workplaces ranged as well:
+- Charity or NGO funded school: 7%
+- Elite or private school: 16%
+- Low cost private school: 9%
+- Public / state / government funded / charter / academy school: 30%
+- Religious school: 25%
+- Supplementary school (evenings / weekends): 4%
 
 ## The design principles
 
