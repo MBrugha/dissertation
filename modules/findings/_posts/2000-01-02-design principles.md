@@ -2,7 +2,7 @@
 
 <br>
 
-## The participants
+### The participants
 The findings draw on data from four courses. The first is a practitioner professional development (PPD) course that was featured in the pilot research. Then there are the three courses from the MOOC series. Below is an overview of the number of participants who filled out a pre-course survey for each course.
 
 - Pilot research (PPD course): 15 participants
@@ -28,7 +28,7 @@ Their workplaces ranged as well:
 
 <br>
 
-## The design principles
+### The design principles
 
 Drawing on the findings, ten design principles were developed for scalable and sustainable online professional development course models and communities of practice that promote practitioner reflection, agency and empowerment, and that view educators as valuable creators and contributors to professional learning resources.
 
@@ -82,7 +82,7 @@ The course benefitted from integrating monitoring and evaluation in the course d
 
 <br>
 
-## Further design considerations
+### Further design considerations
 
 The following further design considerations have been summarised from interviews with sector specialists.
 
@@ -96,7 +96,7 @@ In addition to the design principles identified above, the importance of the rol
 
 <br>
 
-## Further reading
+### Further reading
 
 For more information and details regarding the findings and the design principles, I recommend reading the following two publications, which I co-authored with CEDiR colleagues:
 
