@@ -3,7 +3,7 @@
 <br>
 
 ### The participants
-The findings draw on data from four courses. The first is a practitioner professional development (PPD) course that was featured in the pilot research. Then there are the three courses from the MOOC series. Below is an overview of the number of participants who filled out a pre-course survey for each course.
+The findings draw on data from four courses. The first is a practitioner professional development (PPD) course that was featured in the pilot research. Then there are the three courses from the MOOC series. Below is an overview of the number of participants who filled out a pre-course survey for each trial.
 
 - Pilot research (PPD course): 15 participants
 - Trial 1: 39 participants
@@ -12,7 +12,7 @@ The findings draw on data from four courses. The first is a practitioner profess
 
 As an example of participant demographics, this is an overview of participants from trial 3 (i.e. participants in ‘The Fundamentals of Educational Dialogue’ MOOC). 
 
-208 participants from 40 countries enrolled in the course and completed the pre-course survey. The following figure was developed for the publication featured in Thematic Inquiry 2 (Brugha et al., 2024).
+208 participants from 40 countries enrolled in the course and completed the pre-course survey. The following figure was developed for the publication featured in Thematic Inquiry 2 (Brugha et al., 2024) to display participants' demographics.
 
 ![alt](https://mbrugha.github.io/dissertation/img/trial3participants.png)
 
