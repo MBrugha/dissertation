@@ -1,14 +1,12 @@
 # Selecting the research methods
 
-When selecting appropriate research methods for studying oTPD programmes, there are a range of considerations to be made. This section summarises the methods selected for this study including strengths and limitations of the approach. This is offered on the following two pages in a discussion of using design-based research (DBR) as well as the research phases and approach to data collection and analysis.
-
-Studies should offer a detailed rationale for their research, clearly define the research context, and articulate the paradigm and theoretical framework that underpins the research. For this study, I opted for a research worldview instead of a selected paradigm, which incorporated a pragmatic set of philosophical assumptions of the nature of knowledge as socially constructed and a product of human interests (Habermas, 1968; Freire, 1970), elements of critical realism and theory (i.e. change theories that help with creating practical improvements and changes), non-representational theory in order to focus on practices instead of studying and representing social relationships (Thrift, 2008; Dewsbury, 2000; Merleau-Ponty, 2002)
-
-As you review the content in these sections, reflect on the following:
+When selecting appropriate research methods for studying online professional learning programmes, there are a range of considerations to be made. This section summarises the methods selected for my specific study including strengths and limitations of the approach I chose. Because my approach included the use of design-based research (DBR), I've included more details regarding my rationale for this and the practical implications as well as the research phases and approach to data collection and analysis. This is meant to be helpful as a planning tool and not meant to encourage replication. I'm including the details of my approach for your reflection - and in fact, here are a few reflective prompts to help you do just that:
 
 1. What are the ethical dimensions for research of this nature?
 2. What limitations continue to subsist in the methodologies utilised in this study and throughout the sector more widely?
 3. How can we collect more meaningful data through leveraging the affordances of big data and technology-based analysis software and communities?
+
+Studies should offer a detailed rationale for their research, clearly define the research context, and articulate the paradigm and theoretical framework that underpins the research. For this study, I opted for a research worldview instead of a selected paradigm, which incorporated a pragmatic set of philosophical assumptions of the nature of knowledge as socially constructed and a product of human interests (Habermas, 1968; Freire, 1970), elements of critical realism and theory (i.e. change theories that help with creating practical improvements and changes), non-representational theory in order to focus on practices instead of studying and representing social relationships (Thrift, 2008; Dewsbury, 2000; Merleau-Ponty, 2002).
 
 ## Research questions
 
