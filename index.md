@@ -8,8 +8,6 @@ published: true
 
 This is the home of my doctoral research 'Dialogic Online Professional Development: The Use of Technology to Build a Community of Practice in Educational Dialogue'. My research explored the intersection of technology and educational dialogue to enhance teacher professional development designed for school-level and higher education in-service teachers. As part of my research, I developed and trialled three courses for educators in the form of mechanical MOOCs using this same site structure. It therefore seemed fitting to employ the learning from the design and layout of the courses and re-use that same structure for presenting the results of my research.
 
-_**Note that this site is currently undergoing construction and plans to be launched following my viva in mid-September 2024.**_
-
 On this site you will find:
 - An [introduction](https://mbrugha.github.io/dissertation/modules/introduction/introduction/) to my research and a little bit about me,
 - The [theory, evidence and literature](https://mbrugha.github.io/dissertation/modules/theory%20&%20evidence/theory-&-evidence/) the study was founded upon,
