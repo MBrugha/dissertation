@@ -6,7 +6,7 @@ published: true
 ## Hello and a very warm welcome to this site! 
 
 
-This is the home of my doctoral research 'Dialogic Online Professional Development: The Use of Technology to Build a Community of Practice in Educational Dialogue'. This study explored the intersection of technology and educational dialogue to enhance teacher professional development designed for school-level and higher education in-service teachers. As part of the research, I developed and trialled three courses for educators in the form of mechanical MOOCs using this same site structure. It therefore seemed fitting to employ the learning from design and layout of the courses and re-use the structure for presenting the results of my research.
+This is the home of my doctoral research 'Dialogic Online Professional Development: The Use of Technology to Build a Community of Practice in Educational Dialogue'. My research explored the intersection of technology and educational dialogue to enhance teacher professional development designed for school-level and higher education in-service teachers. As part of my research, I developed and trialled three courses for educators in the form of mechanical MOOCs using this same site structure. It therefore seemed fitting to employ the learning from the design and layout of the courses and re-use that same structure for presenting the results of my research.
 
 _**Note that this site is currently undergoing construction and plans to be launched following my viva in mid-September 2024.**_
 
@@ -18,7 +18,7 @@ On this site you will find:
 - The [findings](https://mbrugha.github.io/dissertation/modules/findings/findings/) that are presented within the three main research questions, and
 - [Concluding remarks](https://mbrugha.github.io/dissertation/modules/conclusions/conclusions/), which offer implications for the sector and recommendations for future research. Links have been included throughout to the courses that were run so that you can see first-hand what participants experienced.
 
-It is my hope that the presentation of my research via a course format like this will help disseminate my findings in an engaging, accessible, open and reflexive way. All content housed on this site is freely accessible to anyone although **please note that all findings are preliminary and are to be confirmed following my viva**. Recommended citations have been included on each page if you would like to reuuse the content.
+It is my hope that the presentation of my research via a course format like this will help disseminate my findings in an engaging, accessible, open and reflexive way. The content has been adapted to guide you through conducting a similar intervention and associated research study through drawing on my research expeiences. All content housed on this site is freely accessible to anyone. Recommended citations have been included on each page if you would like to reuse the content.
 
 Thanks for visiting, and enjoy!
 
